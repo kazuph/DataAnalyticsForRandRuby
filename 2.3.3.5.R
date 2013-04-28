@@ -1,0 +1,5 @@
+colors <- c('green', 'red', 'blue')
+factor(colors)
+results <- c('poor', 'average', 'good')
+factor(results)
+factor(results, order=TRUE, levels=results)

@@ -1,0 +1,3 @@
+# URL直打ちでもいけるとは…
+epl <- read.csv('english_premier_league_data.csv')
+epl

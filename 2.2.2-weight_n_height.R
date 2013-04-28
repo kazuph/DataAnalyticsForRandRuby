@@ -1,0 +1,6 @@
+weight <- c(58,  59,  60,  61,  62,  63,  64,  65,  66,  67,  68,  69,  70,  71)
+height <- c(115, 117, 120, 123, 126, 129, 132, 135, 142, 146, 150, 154, 159, 164)
+print(mean(height))
+print(mean(weight))
+print(cor(weight, height))
+plot(weight, height)
